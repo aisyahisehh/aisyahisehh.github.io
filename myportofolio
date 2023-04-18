@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- bootstrap css -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous" />
+
+    <!-- bootsrap icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css" />
+
+    <!-- My CSS -->
+    <link rel="stylesheet" href="style12.css" />
+    <title>My Portfolio1 | Aisyah</title>
+  </head>
+
+  <body id="home">
+    <!-- =======================================NAVBAR=================================================== -->
+    <nav class="navbar navbar-expand-lg navbar-light shadow-sm fixed-top" style="background-color: #3b6163">
+      <div class="container">
+        <a class="navbar-brand text-white fw-bold" href="#">Aisyah</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link active fw-bold" aria-current="page" href="#home">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link fw-bold" href="#about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link fw-bold" href="#education">Education</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link fw-bold" href="#contact">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- =======================================END NAVBAR=================================================== -->
+
+    <!-- =======================================JUMBOTRON===================================================== -->
+    <section class="jumbotron text-center">
+      <img src="gambar/sw.jpg" alt="Aisyah" width="200" class="rounded-circle img-thumbnail" />
+      <h1 class="display-4 fw-bold">Hello, Saya AI<span>SYAH</span></h1>
+
+      <div class="row text-center text-white mb-3">
+        <div class="col">
+          <h4>Kita Bisa Menjadi Teman</h4>
+          <a href="https://Wa.me/6285695296389" class="btn btn-* mb-3 fw-bold"><i class="bi bi-whatsapp"></i> WhatsApp</a>
+          <a href="https://www.instagram.com/iseh16/" class="btn btn-* mb-3 fw-bold"><i class="bi bi-instagram"></i> Instagram</a>
+          <a href="http://tiktok.com/@kapantrending" class="btn btn-* mb-3 fw-bold"><i class="bi bi-tiktok"></i> TikTok</a>
+        </div>
+      </div>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path
+          fill="#ffffff"
+          fill-opacity="1"
+          d="M0,64L13.3,96C26.7,128,53,192,80,197.3C106.7,203,133,149,160,122.7C186.7,96,213,96,240,80C266.7,64,293,32,320,37.3C346.7,43,373,85,400,112C426.7,139,453,149,480,144C506.7,139,533,117,560,101.3C586.7,85,613,75,640,96C666.7,117,693,171,720,170.7C746.7,171,773,117,800,112C826.7,107,853,149,880,160C906.7,171,933,149,960,144C986.7,139,1013,149,1040,176C1066.7,203,1093,245,1120,245.3C1146.7,245,1173,203,1200,160C1226.7,117,1253,75,1280,80C1306.7,85,1333,139,1360,133.3C1386.7,128,1413,64,1427,32L1440,0L1440,320L1426.7,320C1413.3,320,1387,320,1360,320C1333.3,320,1307,320,1280,320C1253.3,320,1227,320,1200,320C1173.3,320,1147,320,1120,320C1093.3,320,1067,320,1040,320C1013.3,320,987,320,960,320C933.3,320,907,320,880,320C853.3,320,827,320,800,320C773.3,320,747,320,720,320C693.3,320,667,320,640,320C613.3,320,587,320,560,320C533.3,320,507,320,480,320C453.3,320,427,320,400,320C373.3,320,347,320,320,320C293.3,320,267,320,240,320C213.3,320,187,320,160,320C133.3,320,107,320,80,320C53.3,320,27,320,13,320L0,320Z"
+        ></path>
+      </svg>
+    </section>
+    <!-- =======================================END JUMBOTRON================================================= -->
+
+    <!-- ==============================================about================================================== -->
+    <section id="about">
+      <div class="container">
+        <div class="row text-center mb-3">
+          <div class="col">
+            <img src="gambar/sq5.jpg" alt="tentangsaya" width="200" />
+            <h2 style="font-size: 4rem;" >
+              <strong>About</strong><span style="color: #5d9799"><strong>Me</strong></span>
+          </h2>          
+          </div>
+        </div>
+        <div class="row justify-content-center fs-5 text-center">
+          <p>
+            Halo semuanya, perkenalkan nama saya Aisyah, biasa dipanggil Iseh, Ais, atau Sah. Saya lahir di Bekasi pada tanggal 16 Mei 2004. Saat ini saya tinggal bersama kedua orang tua saya di Puri Asri Pratama Blok C5 nomor 28. Saya
+            sedang menempuh pendidikan kuliah di STMIK Al Muslim, Jurusan S1 Ilmu Komputer.
+          </p>
+          <p>
+            Saya telah memiliki pengalaman kerja saat menjalani Program Kerja Lapangan (PKL) di PT Algisindo di bagian produksi selama 3 bulan saat bersekolah di SMK Tinta Emas Indonesia (Yatindo). Keahlian yang saya miliki antara lain
+            kemampuan untuk bekerja secara kolaboratif dalam tim, memiliki kemampuan kreatif, serta menguasai aplikasi Microsoft Word dan Excel."
+          </p>
+        </div>
+      </div>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path
+          fill="#5d9799"
+          fill-opacity="1"
+          d="M0,64L13.3,96C26.7,128,53,192,80,197.3C106.7,203,133,149,160,122.7C186.7,96,213,96,240,80C266.7,64,293,32,320,37.3C346.7,43,373,85,400,112C426.7,139,453,149,480,144C506.7,139,533,117,560,101.3C586.7,85,613,75,640,96C666.7,117,693,171,720,170.7C746.7,171,773,117,800,112C826.7,107,853,149,880,160C906.7,171,933,149,960,144C986.7,139,1013,149,1040,176C1066.7,203,1093,245,1120,245.3C1146.7,245,1173,203,1200,160C1226.7,117,1253,75,1280,80C1306.7,85,1333,139,1360,133.3C1386.7,128,1413,64,1427,32L1440,0L1440,320L1426.7,320C1413.3,320,1387,320,1360,320C1333.3,320,1307,320,1280,320C1253.3,320,1227,320,1200,320C1173.3,320,1147,320,1120,320C1093.3,320,1067,320,1040,320C1013.3,320,987,320,960,320C933.3,320,907,320,880,320C853.3,320,827,320,800,320C773.3,320,747,320,720,320C693.3,320,667,320,640,320C613.3,320,587,320,560,320C533.3,320,507,320,480,320C453.3,320,427,320,400,320C373.3,320,347,320,320,320C293.3,320,267,320,240,320C213.3,320,187,320,160,320C133.3,320,107,320,80,320C53.3,320,27,320,13,320L0,320Z"
+        ></path>
+      </svg>
+    </section>
+    <!-- ==============================================end about=========================================== -->
+
+    <!-- ============================================education============================================== -->
+    <section id="education">
+      <div class="container">
+        <div class="row text-center mb-3">
+          <div class="col">
+            <h2 style="font-size: 4rem;">
+              <strong>Educ</strong><span style="color: #dfcdc3"><strong>ation</strong></span>
+            </h2>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="gambar/sd.jpg" class="card-img-top" alt="education1" />
+              <div class="card-body">
+                <p class="card-text text-center">Tahun 2010- 2017 </p>
+                <p class="card-text">SD Insan Aulia yang berlokasi di Jl. An-Nahl No.1, RT.001/RW.007, Mustika Jaya, Bekasi City, West Java 17158. Info selengkapnya ada di sini</p>
+                <a href="https://maps.app.goo.gl/KYuUYWXhYUekKter5" class="btn btn-education"><i class="bi bi-geo-alt"></i> Lokasi Sd Insan Aulia</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="gambar/smpq.png" class="card-img-top " alt="education2"  />
+              <div class="card-body">
+                <p class="card-text text-center">Tahun 2017- 2020</p>
+                <p class="card-text">SMP Islam Assuryaniyah yang berlokasi di Mustika Jaya, Kota Bks, Jawa Barat 17155  Info selengkapnya ada di sini</p>
+                <a href="https://maps.app.goo.gl/MHCXcRWr2s6HQkFH9" class="btn btn-education"><i class="bi bi-geo-alt"></i> Lokasi SMP Islam Assuryaniyah</a>
+                <a href="https://instagram.com/smpislamassuryaniyah?igshid=YmMyMTA2M2Y=" class="btn btn-education"><i class="bi bi-instagram"></i> Instagram </a>
+                <a href="https://smpi-assuryaniyah.sch.id/" class="btn btn-education"><i class="bi bi-browser-chrome"></i> Website </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="gambar/YTDE.jpg" class="card-img-top" alt="education 3" />
+              <div class="card-body">
+                <p class="card-text text-center">Tahun 2020- 2022</p>
+                <p class="card-text">SMK Tinta Emas Indonesia ( Yatindo ) yang berlokasi diJalan Asem Jaya No.1 RT.004/RW.005 Mustika Jaya Kecamatan Mustika Jaya Kota Bekasi Jawa Barat 17158 Info selengkapnya ada di sini</p>
+                <a href="https://maps.app.goo.gl/2ELW8KMbDtYw6ZxE7" class="btn btn-education"><i class="bi bi-geo-alt"></i> Lokasi SMK Tinta Emas Indonesia</a>
+                <a href="https://instagram.com/smk_yatindo?igshid=YmMyMTA2M2Y=" class="btn btn-education"><i class="bi bi-instagram"></i> Instagram </a>
+                <a href="https://smk-smptintaemas.sch.id/" class="btn btn-education "><i class="bi bi-browser-chrome"></i> Website </a>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div>
+      </div>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path
+          fill="#ffffff"
+          fill-opacity="1"
+          d="M0,64L13.3,96C26.7,128,53,192,80,197.3C106.7,203,133,149,160,122.7C186.7,96,213,96,240,80C266.7,64,293,32,320,37.3C346.7,43,373,85,400,112C426.7,139,453,149,480,144C506.7,139,533,117,560,101.3C586.7,85,613,75,640,96C666.7,117,693,171,720,170.7C746.7,171,773,117,800,112C826.7,107,853,149,880,160C906.7,171,933,149,960,144C986.7,139,1013,149,1040,176C1066.7,203,1093,245,1120,245.3C1146.7,245,1173,203,1200,160C1226.7,117,1253,75,1280,80C1306.7,85,1333,139,1360,133.3C1386.7,128,1413,64,1427,32L1440,0L1440,320L1426.7,320C1413.3,320,1387,320,1360,320C1333.3,320,1307,320,1280,320C1253.3,320,1227,320,1200,320C1173.3,320,1147,320,1120,320C1093.3,320,1067,320,1040,320C1013.3,320,987,320,960,320C933.3,320,907,320,880,320C853.3,320,827,320,800,320C773.3,320,747,320,720,320C693.3,320,667,320,640,320C613.3,320,587,320,560,320C533.3,320,507,320,480,320C453.3,320,427,320,400,320C373.3,320,347,320,320,320C293.3,320,267,320,240,320C213.3,320,187,320,160,320C133.3,320,107,320,80,320C53.3,320,27,320,13,320L0,320Z"
+        ></path>
+      </svg>
+    </section>
+    <!-- ==============================================end education======================================== -->
+
+    <!-- ==============================================contact============================================= -->
+    <section id="contact" style="background-color: #fff">
+      <div class="container">
+        <div class="row text-center mb-3">
+          <div class="col">
+            <h2 style="font-size: 3rem;">
+              <strong>Contact</strong><span style="color: #5d9799"> Me<strong></strong></span>
+            </h2>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-md-6">
+            <form>
+              <div class="mb-3">
+                <label for="name" class="form-label">Nama Lengkap</label>
+                <input type="text" class="form-control" id="name" aria-describedby="name" />
+              </div>
+              <div class="mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="email" aria-describedby="email" />
+              </div>
+              <div class="mb-3">
+                <label for="pesan" class="form-label">Pesan</label>
+                <textarea class="form-control" id="pesan" rows="3"></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary">kirim</button>
+            </form>
+          </div>
+        </div>
+      </div>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path
+          fill="#ffffff"
+          fill-opacity="1"
+          d="M0,64L13.3,96C26.7,128,53,192,80,197.3C106.7,203,133,149,160,122.7C186.7,96,213,96,240,80C266.7,64,293,32,320,37.3C346.7,43,373,85,400,112C426.7,139,453,149,480,144C506.7,139,533,117,560,101.3C586.7,85,613,75,640,96C666.7,117,693,171,720,170.7C746.7,171,773,117,800,112C826.7,107,853,149,880,160C906.7,171,933,149,960,144C986.7,139,1013,149,1040,176C1066.7,203,1093,245,1120,245.3C1146.7,245,1173,203,1200,160C1226.7,117,1253,75,1280,80C1306.7,85,1333,139,1360,133.3C1386.7,128,1413,64,1427,32L1440,0L1440,320L1426.7,320C1413.3,320,1387,320,1360,320C1333.3,320,1307,320,1280,320C1253.3,320,1227,320,1200,320C1173.3,320,1147,320,1120,320C1093.3,320,1067,320,1040,320C1013.3,320,987,320,960,320C933.3,320,907,320,880,320C853.3,320,827,320,800,320C773.3,320,747,320,720,320C693.3,320,667,320,640,320C613.3,320,587,320,560,320C533.3,320,507,320,480,320C453.3,320,427,320,400,320C373.3,320,347,320,320,320C293.3,320,267,320,240,320C213.3,320,187,320,160,320C133.3,320,107,320,80,320C53.3,320,27,320,13,320L0,320Z"
+        ></path>
+      </svg>
+    </section>
+    <!-- ====================================================end contact===================================== -->
+
+    <!-- ======================================================footer======================================== -->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+      <path
+        fill="#5d9799"
+        fill-opacity="1"
+        d="M0,64L13.3,96C26.7,128,53,192,80,197.3C106.7,203,133,149,160,122.7C186.7,96,213,96,240,80C266.7,64,293,32,320,37.3C346.7,43,373,85,400,112C426.7,139,453,149,480,144C506.7,139,533,117,560,101.3C586.7,85,613,75,640,96C666.7,117,693,171,720,170.7C746.7,171,773,117,800,112C826.7,107,853,149,880,160C906.7,171,933,149,960,144C986.7,139,1013,149,1040,176C1066.7,203,1093,245,1120,245.3C1146.7,245,1173,203,1200,160C1226.7,117,1253,75,1280,80C1306.7,85,1333,139,1360,133.3C1386.7,128,1413,64,1427,32L1440,0L1440,320L1426.7,320C1413.3,320,1387,320,1360,320C1333.3,320,1307,320,1280,320C1253.3,320,1227,320,1200,320C1173.3,320,1147,320,1120,320C1093.3,320,1067,320,1040,320C1013.3,320,987,320,960,320C933.3,320,907,320,880,320C853.3,320,827,320,800,320C773.3,320,747,320,720,320C693.3,320,667,320,640,320C613.3,320,587,320,560,320C533.3,320,507,320,480,320C453.3,320,427,320,400,320C373.3,320,347,320,320,320C293.3,320,267,320,240,320C213.3,320,187,320,160,320C133.3,320,107,320,80,320C53.3,320,27,320,13,320L0,320Z"
+      ></path>
+    </svg>
+    <!-- <footer style="background-color: #5d9799" class="text-center pb-3">
+      <h3>Kita Bisa Menjadi Teman</h3>
+      <a href="https://Wa.me/6285695296389" class="btn btn-* mb-3"><i class="bi bi-whatsapp"></i> WhatsApp</a>
+      <a href="https://www.instagram.com/iseh16/" class="btn btn-* mb-3"><i class="bi bi-instagram"></i> Instagram</a>
+      <a href="http://tiktok.com/@kapantrending" class="btn btn-* mb-3"><i class="bi bi-tiktok"></i> TikTok</a>
+    </footer> -->
+    
+     <!-- footer -->
+     <footer style="background-color: #5d9799; font-size: 1rem;" class="text-white text-center pb-3">
+      <p>Created with <i class="bi bi-heart-fill text-danger"></i> by <a href="https://www.instagram.com/iseh16/" class="text-white fw-bold">AISYAH</a></p>
+    </footer>
+    
+    <!-- end footer -->
+    <!-- =====================================================end footer====================================== -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+  </body>
+</html>
